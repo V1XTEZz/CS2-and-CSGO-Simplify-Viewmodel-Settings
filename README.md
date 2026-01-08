@@ -12,4 +12,6 @@
   <p><br><i>Hfov</i> - <code>(54 to 68) [+2 or -2 only]</code></p>
 </blockquote>
 
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
+
 <br>Contact email: originalzent1em@gmail.com</p>
