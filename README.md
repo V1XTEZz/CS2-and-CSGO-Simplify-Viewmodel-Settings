@@ -1,4 +1,4 @@
-# CS2-Simplify-Viewmodel-Settings
+# CS2-and-CSGO-Simplify-Viewmodel-Settings
 
 <p>Simple way to modify ur viewmodel/hands</p>
 <br>
