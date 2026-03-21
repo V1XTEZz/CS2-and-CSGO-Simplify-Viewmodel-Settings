@@ -9,9 +9,13 @@
   <i>Hx</i> - <code>(-2 to 2.5) [+0.5 or -0.5 only] OR use Min & Max (HxMIN/MAX)</code>
   <br><i>Hy</i> - <code>(-2 to 2) [+0.5 or -0.5 only] OR use Min & Max (HyMIN/MAX)</code>
   <br><i>Hz</i> - <code>(-2 to 2) [+0.5 or -0.5 only] OR use Min & Max (HzMIN/MAX)</code>
-  <p><br><i>Hfov</i> - <code>(54 to 68) [+2 or -2 only] OR use Min & Max</code></p>
+  <br><i>Hfov</i> - <code>(54 to 68) [+2 or -2 only] OR use Min & Max</code>
+  <br><i>HPreset</i> - <code>(0 / 1) choosing presets</code>
+
+  <br><b>HInfo</b> - <code>to get current values</code>
+  <br>Or add <b>V</b> to command instead number <code>[HfovV]</code>
 </blockquote>
 
 <br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
 
-<br>Contact email: originalzent1em@gmail.com</p>
+<br>Contact email: contact_v1xtezz@proton.me</p>
